@@ -1,3 +1,3 @@
-nvoice = input("Input text: ")
+nvoice = input("Slow down some text: ")
 svoice = nvoice.replace(" ", "...")
 print(svoice)
