@@ -1,6 +1,3 @@
-# ask user for text
-text = input(str("Input text: "))
-
-whitespace = print(" ")
-dots = print("...")
-str.replace(whitespace, dots)
+voice = input("Input text: "))
+lad = voice.replace(" ": str, "...":str)
+print(lad)
