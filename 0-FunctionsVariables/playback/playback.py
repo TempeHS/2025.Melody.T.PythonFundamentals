@@ -1,3 +1,3 @@
-voice = input("Input text: "))
-lad = voice.replace(" ": str, "...":str)
-print(lad)
+voice = input("Input text: ")
+slower = voice.replace(" ", "...")
+print(slower)
