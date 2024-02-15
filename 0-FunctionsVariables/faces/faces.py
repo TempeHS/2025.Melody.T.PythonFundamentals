@@ -1,11 +1,12 @@
 def convert(parameter):
-    print(parameter.replace(":)", "🙂"))
-    print(parameter.replace(":(", "🙁"))
+    parameter = parameter.replace(":)", "🙂")
+    parameter = parameter.replace(":(", "🙁")
+    return parameter
 
 
 def main():
     given = input("Convert an emoticon: ")
-    convert(given)
+    print(convert(given))
 
 
 main()

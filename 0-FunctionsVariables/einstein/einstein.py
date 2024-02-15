@@ -4,7 +4,7 @@ def main():
 
 
 def energy(n):
-    mass * speed**2
+    x = mass * 
 
 
 main()
