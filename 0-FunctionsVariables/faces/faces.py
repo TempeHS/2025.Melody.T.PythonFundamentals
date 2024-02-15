@@ -1,4 +1,11 @@
-def convert(str):
-    input("Type an emoticon: ")
-    print.replace(":)", "g")
-    print.replace(":()", "h")
+def main():
+    input("Convert an emoticon: ")
+    convert(given)
+
+
+def convert(para):
+    print(para.replace(":)", "🙂"))
+    print(para.replace(":(", "🙁"))
+
+
+main()
