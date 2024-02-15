@@ -1,2 +1,3 @@
-name = print(str("Use your indoor voice :) "))
-input(str.lower(name))
+name = input("Use your indoor voice :) ")
+
+str.lower(name)
