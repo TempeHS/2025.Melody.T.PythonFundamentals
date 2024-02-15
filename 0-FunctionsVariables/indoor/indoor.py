@@ -1,3 +1,5 @@
-name = input("Use your indoor voice :) ")
+# ask user for text
+text = input(str("Input text: "))
 
-str.lower(name)
+# print lowercase
+print(str.lower((text)))
