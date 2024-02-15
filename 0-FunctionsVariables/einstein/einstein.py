@@ -1,10 +1,10 @@
 def main():
-    kilo = int(input("Enter mass of object in kg: "))
-    print("x squared is", square(kilo))
+    mass = int(input("Enter mass of object in kg: "))
+    print("Energy of this object is ", energy(mass))
 
 
-def square(n):
-    return n * n
+def energy(n):
+    mass * speed**2
 
 
 main()
