@@ -1,3 +1,3 @@
-voice = input("Input text: ")
-slower = voice.replace(" ", "...")
-print(slower)
+nvoice = input("Input text: ")
+svoice = nvoice.replace(" ", "...")
+print(svoice)
