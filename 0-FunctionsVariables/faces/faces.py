@@ -1,6 +1,6 @@
 def main():
-    input("Convert an emoticon: ")
-    convert(given)
+    noses = input("Convert an emoticon: ")
+    convert(noses)
 
 
 def convert(para):
