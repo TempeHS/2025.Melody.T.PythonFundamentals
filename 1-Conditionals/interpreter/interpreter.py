@@ -2,3 +2,10 @@
 
 expression = input("Calculate: ")
 x, y, z = expression.split(" ")
+
+if y == "+":
+    print (x - z)
+
+elif y == "-"
+elif y == *
+else 
