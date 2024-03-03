@@ -4,8 +4,11 @@ expression = input("Calculate: ")
 x, y, z = expression.split(" ")
 
 if y == "+":
-    print (x - z)
+    print(x - z)
 
-elif y == "-"
-elif y == *
-else 
+elif y == "-":
+    print("hehe")
+elif y == "*":
+    print("hehe")
+else:
+    print("divide")
