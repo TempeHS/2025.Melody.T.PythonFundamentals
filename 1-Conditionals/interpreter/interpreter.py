@@ -4,11 +4,13 @@ expression = input("Calculate: ")
 x, y, z = expression.split(" ")
 
 if y == "+":
-    print(x - z)
+    result = x + z
 
 elif y == "-":
-    print("hehe")
+    result = x - z
 elif y == "*":
-    print("hehe")
-else:
-    print("divide")
+    result = x * z
+elif y == "/":
+    result = x / z
+
+print("Your answer is", result)
