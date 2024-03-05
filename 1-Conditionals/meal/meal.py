@@ -11,6 +11,8 @@ def main():
         print("lunch")
 	elif 18.00 <= beep <= 19.00:
         print("dinner")
+	else:
+		print("nothi")
 	
 def convert(time):
 	beep = float(hours)
