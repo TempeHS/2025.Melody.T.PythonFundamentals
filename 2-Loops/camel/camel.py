@@ -2,8 +2,8 @@
 
 
 def main():
-    input = input("Input camel case here: ")
-    list[input]
+    numb = input("Input camel case here: ")
+    list[numb]
 
 
 def convert(i):
