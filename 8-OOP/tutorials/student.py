@@ -4,14 +4,10 @@ def main():
 
 
 def get_student():
-    n = input("Name: ")
-    h = input("House: ")
-    return n, h
+    name = input("Name: ")
+    house = input("House: ")
+    return name, house
 
 
 # if __name__ == "__main__":
-<<<<<<< HEAD
-=======
-
->>>>>>> 48c624d3298b9a2bae5606aec380c42f103238c8
 main()
