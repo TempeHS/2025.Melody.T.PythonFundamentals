@@ -10,4 +10,8 @@ def get_student():
 
 
 # if __name__ == "__main__":
+<<<<<<< HEAD
+=======
+
+>>>>>>> 48c624d3298b9a2bae5606aec380c42f103238c8
 main()
