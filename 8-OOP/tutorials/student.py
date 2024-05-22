@@ -1,4 +1,7 @@
-class Student: ...
+class Studen: ...
+
+
+print("bonk")
 
 
 def main():
@@ -8,7 +11,7 @@ def main():
 
 # class
 def get_student():
-    student = Student()
+    student = Studen()
     student.name = input("Name: ")
     student.house = input("House: ")
     return student
